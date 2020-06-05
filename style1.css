@@ -1,0 +1,68 @@
+body{
+  background: white;
+  font-style: Arial;
+}
+#main-header{
+
+  margin: 0;
+  padding:60px;
+
+}
+#main-header h1{
+  float: left;
+  font-size: 30px;
+  color: blue;
+  margin-top: auto;
+  padding-right: 3px;
+
+}
+#main-header h2{
+  float: left;
+  color: gray;
+  padding: 20px;
+  font-size: 15px;
+}
+#main-header h4{
+  float: left;
+  padding-left: 100px;
+  color: gray;
+}
+
+#navbar{
+  display:block;
+  background-color: green;
+  float: left;
+  padding: 10px;
+  width: 100%
+}
+#navbar ul{
+  padding: 0;
+  text-decoration: none;
+}
+#navbar li{
+  margin: 0;
+  padding-left: 60px;
+  list-style: none;
+  display: inline;
+  padding-right: 30px;
+}
+#searchbar{
+
+  padding: 10px;
+  background-color: gray;
+  overflow: hidden;
+}
+.textsearch{
+  height: 2px;
+  margin-top: 0px;
+  padding-top: 20px;
+  width: 60%
+
+}
+
+.button1{
+  float: right;
+  color: green
+  
+  margin-left:10px;
+}
